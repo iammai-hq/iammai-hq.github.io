@@ -1,6 +1,8 @@
 title: MAI HQ #name/website title
 logo: #logo or photo here
-theme: jekyll-theme-merlot
+gem "jekyll-theme-clean-blog" #gemfile, replace current theme
+bundle install
+theme: jekyll-theme-clean-blog
 description: >
   Journey of becoming myself
 google_analytics: #your google analytics tracking ID here
