@@ -1,7 +1,5 @@
 title: MAI HQ #name/website title
 logo: #logo or photo here
-gem "jekyll-theme-clean-blog" #gemfile, replace current theme
-bundle install
 theme: jekyll-theme-clean-blog
 description: >
   Journey of becoming myself
