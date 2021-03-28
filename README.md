@@ -1,2 +1,2 @@
-###I AM MAI###
+#MAI HQ#
 *Journey of becoming myself*
