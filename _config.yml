@@ -1,6 +1,6 @@
 title: MAI HQ #name/website title
 logo: #logo or photo here
-theme: jekyll-theme-merlot
+theme: minimal-mistakes-jekyll
 description: >
   Journey of becoming myself
 google_analytics: #your google analytics tracking ID here
